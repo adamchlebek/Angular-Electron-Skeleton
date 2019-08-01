@@ -63,6 +63,15 @@ npm start
 
 ## Deployment
 
+To deploy this application, run the following commands:
+
+|Operating System|Command|
+|--|--|
+|Windows OS| `npm run electron:windows` |
+|Linux| `npm run electron:linux` |
+|Mac OS| `npm run electron:mac` |
+
+For more information, see the commands section above.
 
 ## Built With
 
