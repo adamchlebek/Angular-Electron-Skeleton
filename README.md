@@ -17,7 +17,7 @@ This repository is a template for all future projects using Electron and Angular
 
 ## Getting Started
 
-> **Note** : Search for the word *ProjectName* in the project and replace that with your project title.
+> **Note** : Search for the word *project-name* in the project and replace that with your project title.
 
 ### Prerequisites
 
