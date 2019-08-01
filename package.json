@@ -1,11 +1,11 @@
 {
-  "name": "angular-electron",
+  "name": "ProjectName",
   "version": "6.0.1",
-  "description": "Angular 8 with Electron (Typescript + SASS + Hot Reload)",
-  "homepage": "https://github.com/maximegris/angular-electron",
+  "description": "Angular 8 with Electron and Hot Reloading",
+  "homepage": "https://github.com/adamchlebek/Angular-Electron-Skeleton",
   "author": {
-    "name": "Maxime GRIS",
-    "email": "maxime.gris@gmail.com"
+    "name": "Adam Chlebek",
+    "email": "adamchlebek@live.com"
   },
   "keywords": [
     "angular",
